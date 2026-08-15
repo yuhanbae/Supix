@@ -1,0 +1,6 @@
+{
+  "name": "supix_ai",
+  "description": "A versatile AI client compatible with local LLMs, OpenAI APIs, and custom endpoints with BYOK support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
